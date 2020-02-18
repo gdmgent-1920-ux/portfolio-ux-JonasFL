@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Jonas Fleureck
 
-## Group:
+## Group: AVDa
 
 ## Getting Started
 
