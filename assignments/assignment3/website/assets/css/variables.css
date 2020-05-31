@@ -1,0 +1,17 @@
+:root {
+  /*
+  * Color palette
+  */
+  --c-primary: #0D5C63;
+  --c-secondary: #BDD9BF;
+  --c-tertiary: #72B01D;
+  --c-quaternary: #FFFFFF;
+  --c-quinery: #2E4052;
+
+  /*
+  * Typography
+  */
+  --t-primary: Arial, Helvetica, sans-serif;
+
+  --t-link: var(--t-primary);
+}

@@ -1,0 +1,18 @@
+.link {
+  text-decoration: none;
+  font-family: var(--t-link);
+  color: var(--c-quinery);
+}
+
+.link-bold {
+  text-decoration: none;
+  font-family: var(--t-link);
+  color: var(--c-quinery);
+  font-weight: bold;
+}
+
+.link-webshop {
+  font-weight: bold;
+  color: gray;
+  text-decoration: none;
+}
